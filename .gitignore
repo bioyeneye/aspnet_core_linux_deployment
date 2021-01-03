@@ -1,0 +1,6 @@
+.vs/*
+
+DeployToLinux/bin/*
+DeployToLinux/obj/*
+
+packages/*
